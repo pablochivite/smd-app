@@ -1,6 +1,10 @@
 # smd-app
 
+<<<<<<< HEAD
 Personal finance ledger: balances, spending and monthly reports from a CSV file.
+=======
+Personal finance ledger for your terminal.
+>>>>>>> 2c505ddcd1bd32459b2b59ab92515d500b631d29
 
 ## Run it
 
